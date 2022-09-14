@@ -1,0 +1,53 @@
+.b-title {
+    font-size:3vw;
+    padding-top: 5%;
+    font-weight: 300;
+}
+
+.b-dec {
+    padding:2%;
+    font-size:25px;
+}
+
+.body2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 1400px;
+    margin: 5%;
+    position: relative;
+}
+figure {
+
+    position: relative;
+}
+
+img.img1, img.img2, img.img3 {
+    width: 100%;
+    height: 350px;
+    max-width: 400px;
+}
+/* img.img1 {
+    width: 100%;
+    max-width: 300px;
+}
+
+img.img3 {
+    width: 100%;
+    max-width: 280px;
+} */
+
+
+figcaption{
+/* 
+    display: flex;
+    flex-direction: row;
+	position: absolute; */
+    justify-content: space-between;
+    margin: 15% 13%;
+    font-size:1.5vw;
+    bottom: -15%;
+}
