@@ -15,7 +15,7 @@ function Body() {
             <div> We believe, women are the future.</div>
             </div>
         </div>
-        <div className='body2'>
+        <div className='body1'>
         <figure >
             <img className="img1" src={firstimg} alt="" />
             <figcaption>Diversity & Equity</figcaption>
