@@ -4,8 +4,8 @@
 
 .logo {
   display: flex;
-  width: 15%;
-
+  width: 13%;
+  /* padding-bottom: 2%; */
   position: absolute;
 }
 
