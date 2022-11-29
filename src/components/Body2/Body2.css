@@ -12,12 +12,11 @@
 .dot {
   border-radius: 50%;
   display: inline-block;
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 180px;
   border-style: solid;
   border-color: rgb(231, 161, 161);
   background-color: white;
-  padding: 1%;
   margin: 3%;
 }
 
