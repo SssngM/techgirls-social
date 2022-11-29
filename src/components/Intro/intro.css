@@ -1,14 +1,10 @@
 .left {
-  /* display: flex; */
   flex: 1;
-
   padding-bottom: 225px;
-  /* margin-top: 2%; */
   background-color: rgb(219, 0, 255);
 }
 
 .wrapper {
-  /* display:flex; */
   height: 120%;
   background-color: rgb(241, 243, 244);
   margin: 10%;
@@ -19,14 +15,11 @@
   height: 81vh;
   position: relative;
   display: flex;
-  /* margin-top: 2%; */
 }
 .intro-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  /* margin-left: -10%; */
-  /* position: absolute; */
 }
 
 section {
@@ -35,7 +28,7 @@ section {
 }
 
 .title {
-  font-size: 5vw;
+  font-size: 4rem;
   font-weight: 500;
 }
 

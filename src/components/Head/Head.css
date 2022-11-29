@@ -5,7 +5,7 @@
 .logo {
   display: flex;
   width: 15%;
-  /* margin: 0 0 5% 5%; */
+
   position: absolute;
 }
 
@@ -14,8 +14,6 @@
   justify-content: flex-end;
 }
 .menu {
-  /* display: inline-flex; */
-
   color: rgb(219, 0, 255);
   margin: 0;
   text-align: right;
@@ -26,7 +24,7 @@
 
 .menu2 {
   padding-left: 3%;
-  /* display: inline-flex; */
+
   color: grey;
   margin: 0;
   text-align: justify;

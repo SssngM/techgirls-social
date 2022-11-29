@@ -1,16 +1,16 @@
 .b-title {
-  font-size: 3vw;
+  font-size: 3rem;
   padding-top: 5%;
   font-weight: 300;
 }
 
 .b-dec {
   padding: 2%;
-  font-size: 1.5vw;
+  font-size: 2rem;
 }
 
 .img-dec {
-  width: 295px;
+  width: 300px;
 }
 
 .body1 {
@@ -42,24 +42,11 @@ img.img3 {
   height: 250px;
   max-width: 230px;
 }
-/* img.img1 {
-    width: 100%;
-    max-width: 300px;
-}
-
-img.img3 {
-    width: 100%;
-    max-width: 280px;
-} */
 
 figcaption {
-  /* 
-    display: flex;
-    flex-direction: row;
-	position: absolute; */
   justify-content: space-between;
   margin: 5% 5%;
-  font-size: 1.5vw;
+  font-size: 2rem;
   bottom: -15%;
   color: rgb(231, 161, 161);
 }
