@@ -1,0 +1,18 @@
+.footer {
+  color: grey;
+}
+
+p {
+  font-size: 3vw;
+  color: grey;
+}
+
+.f-dec {
+  font-size: 1.5vw;
+  color: grey;
+}
+
+.footer img {
+  height: 50px;
+  margin: 5% 0% 5% 3%;
+}

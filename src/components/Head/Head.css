@@ -1,0 +1,36 @@
+.head {
+  padding: 0 2% 2% 1%;
+}
+
+.logo {
+  display: flex;
+  width: 15%;
+  /* margin: 0 0 5% 5%; */
+  position: absolute;
+}
+
+.all-menu {
+  display: flex;
+  justify-content: flex-end;
+}
+.menu {
+  /* display: inline-flex; */
+
+  color: rgb(219, 0, 255);
+  margin: 0;
+  text-align: right;
+  padding-top: 2%;
+
+  font-size: 1rem;
+}
+
+.menu2 {
+  padding-left: 3%;
+  /* display: inline-flex; */
+  color: grey;
+  margin: 0;
+  text-align: justify;
+  padding-top: 2%;
+  position: relative;
+  font-size: 1rem;
+}
