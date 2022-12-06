@@ -28,7 +28,7 @@ function Body() {
         </figure>
         <figure>
           <img className="img2" src={sescondimg} alt="" />
-          <figcaption>Network and Grow Together</figcaption>
+          <figcaption>Grow Together </figcaption>
           <div className="img-dec">
             We are devoted and committed to grow together as a team. We are here
             to provide a place to network and build a positive connection with

@@ -10,7 +10,7 @@
 }
 
 .img-dec {
-  width: 300px;
+  max-width: fit-content;
 }
 
 .body1 {
@@ -27,7 +27,7 @@
 figure {
   position: relative;
   margin: 10px;
-  padding-left: 5%;
+  /* padding-left: 5%; */
 }
 
 img.img1,
