@@ -10,7 +10,7 @@
 }
 
 .img-dec {
-  max-width: fit-content;
+  max-width: 400px;
 }
 
 .body1 {
@@ -20,14 +20,13 @@
   justify-content: center;
   align-items: center;
   gap: 35px;
-  max-width: 1400px;
+  /* max-width: 1400px; */
   margin: 5% 0 0 0;
   position: relative;
 }
 figure {
   position: relative;
-  /* margin: 10px; */
-  padding-left: 5%;
+  margin: 10px;
 }
 
 img.img1,
