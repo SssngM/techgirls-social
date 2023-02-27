@@ -17,6 +17,7 @@ p {
   margin-bottom: 10%;
   align-items: center;
   padding: 1%;
+  height: 4vmax;
 }
 
 
@@ -28,7 +29,7 @@ a:hover {
   color: grey;
 }
 button {
-  margin: 3%;
+  margin: 3% 0 10% 0;
   padding: 0.5% 5%;
   border: 1px solid lightcoral;
   border-radius: 5px;
@@ -42,3 +43,4 @@ button {
 button:hover {
   background-color: white;
 }
+
