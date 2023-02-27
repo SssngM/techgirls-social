@@ -3,7 +3,7 @@
 }
 
 p {
-  font-size: 3vw;
+  font-size: 3vmax;
   color: grey;
 }
 
@@ -29,7 +29,7 @@ a:hover {
 }
 button {
   margin: 3%;
-  padding: 1%;
+  padding: 0.5% 5%;
   border: 1px solid lightcoral;
   border-radius: 5px;
   background-color: rgb(219, 0, 255);

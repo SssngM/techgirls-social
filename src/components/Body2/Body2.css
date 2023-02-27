@@ -4,7 +4,7 @@
 }
 
 .b2-title {
-  font-size: 2.5rem;
+  font-size: 3vmax;
   padding-top: 5%;
   color: grey;
 }
@@ -12,8 +12,8 @@
 .dot {
   border-radius: 50%;
   display: inline-block;
-  height: 180px;
-  width: 180px;
+  height: 10vmax;
+  width: 10vmax;
   border-style: solid;
   border-color: rgb(231, 161, 161);
   background-color: white;

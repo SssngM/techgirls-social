@@ -58,13 +58,13 @@ a:hover {
 }
 .introbutton {
   margin: 3%;
-  padding: 1%;
+  padding: 0.5% 5%;
   border: 1px solid lightcoral;
   border-radius: 5px;
   background-color: rgb(219, 0, 255);
   cursor: pointer;
   transition-duration: 0.4s;
-  font-size:1em;
+  font-size:1.2em;
   margin: 2%;
   width: fit-content;
   padding: 1% 8%;
