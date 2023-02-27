@@ -15,8 +15,9 @@ function Intro() {
               <div> Social</div>
             </div>
             <div className="slogan">
-              <div> Get Together</div>
-              <div> Grow Together</div>
+              <div> We support all tech girls network, </div>
+              <div> have in person meet up in SF. </div>
+              <div> Come and join us</div>
             </div>
           </div>
         </div>
