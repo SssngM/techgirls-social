@@ -34,10 +34,8 @@ section {
 
 .slogan {
   margin-top: 5%;
-  font-size: 1.8vw;
-  letter-spacing: 0.2rem;
-  margin: 10%;
-  width: fit-content;
+  font-size: 1.5rem;
+  margin: 3%;
 }
 
 .r-bg {
@@ -48,4 +46,64 @@ section {
   position: absolute;
   top: 0;
   right: 75%;
+}
+
+
+a{
+  text-decoration: none;
+  color:white;
+}
+a:hover {
+  color: grey;
+}
+.introbutton {
+  margin: 3%;
+  padding: 1%;
+  border: 1px solid lightcoral;
+  border-radius: 5px;
+  background-color: rgb(219, 0, 255);
+  cursor: pointer;
+  transition-duration: 0.4s;
+  font-size:1em;
+  margin: 2%;
+  width: fit-content;
+  padding: 1% 8%;
+}
+
+.introbutton:hover {
+  background-color: white;
+}
+
+
+
+@media only screen and (max-width: 600px) { 
+
+  .slogan {
+    margin-top: 5%;
+    font-size: 5vw;
+    margin: 5%;
+    padding-bottom: 20%;
+  }
+
+
+  .title {
+    font-size: 12vw;
+    font-weight: 500;
+    padding: 20%;
+    padding-bottom:30%;
+  }
+
+
+  .intro-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .left {
+    flex: 0.75;
+    padding-bottom: 225px;
+    background-color: rgb(219, 0, 255);
+}
+  
 }

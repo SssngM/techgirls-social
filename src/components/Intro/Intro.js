@@ -3,6 +3,9 @@ import "./intro.css";
 import introimg from "../../img/introimg.png";
 
 function Intro() {
+  const handleClick = () => {
+    // implementation details
+  };
   return (
     <section>
       <div className="left"></div>
@@ -19,6 +22,11 @@ function Intro() {
               <div> have in person meet up in SF. </div>
               <div> Come and join us</div>
             </div>
+            <button className = "introbutton"type="button" onClick={handleClick}>
+             <a href = "https://mailchi.mp/5c16c9da3b65/tech-girls-socail">
+              Newsletter
+             </a>
+            </button>
           </div>
         </div>
         <img src={introimg} alt="" className="intro-img" />
