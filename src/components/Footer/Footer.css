@@ -14,5 +14,31 @@ p {
 
 .footer img {
   height: 50px;
-  margin: 5% 0% 5% 3%;
+  margin-bottom: 10%;
+  align-items: center;
+  padding: 1%;
+}
+
+
+a{
+  text-decoration: none;
+  color:white;
+}
+a:hover {
+  color: grey;
+}
+button {
+  margin: 3%;
+  padding: 1%;
+  border: 1px solid lightcoral;
+  border-radius: 5px;
+  background-color: rgb(219, 0, 255);
+  cursor: pointer;
+  transition-duration: 0.4s;
+  width: 15%;
+  font-size:1.5em;
+}
+
+button:hover {
+  background-color: white;
 }
