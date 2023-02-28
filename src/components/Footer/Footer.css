@@ -42,5 +42,6 @@ button {
 
 button:hover {
   background-color: white;
+  color: grey;
 }
 

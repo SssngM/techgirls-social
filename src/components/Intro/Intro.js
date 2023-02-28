@@ -23,7 +23,7 @@ function Intro() {
               <div> Come and join us</div>
             </div>
             <button className = "introbutton"type="button" onClick={handleClick}>
-             <a href = "https://mailchi.mp/5c16c9da3b65/tech-girls-socail">
+             <a href = "https://mailchi.mp/94c40e3e01cc/tech-girls-social">
               Newsletter
              </a>
             </button>
