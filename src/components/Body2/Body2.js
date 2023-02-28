@@ -10,7 +10,7 @@ function Body2() {
       <p className="b2-title">Our Integrations</p>
       <img src={luna} className="dot" />
       <img src={nft} className="dot" />
-      <img src={cisco} className="dot" />
+      {/* <img src={cisco} className="dot" /> */}
       {/* <span className="dot"></span>
       <span className="dot"></span> */}
     </div>
