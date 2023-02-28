@@ -72,35 +72,25 @@ a:hover {
 
 .introbutton:hover {
   background-color: white;
-  color: grey;
 }
 
 
 
 @media only screen and (max-width: 600px) { 
 
-  .left {
-
-    height: 23vh;
-  }
-
-  .right {
-
-    height: 50vh;
-
-  }
-
-
   .slogan {
     margin-top: 5%;
     font-size: 5vw;
-    margin: 10% 12%;
+    margin: 5%;
+    padding-bottom: 20%;
   }
 
 
   .title {
     font-size: 12vw;
     font-weight: 500;
+    padding: 20%;
+    padding-bottom:30%;
   }
 
 
@@ -115,17 +105,12 @@ a:hover {
     padding-bottom: 225px;
     background-color: rgb(219, 0, 255);
 }
-
 .introbutton {
-
-  border: 1px solid lightcoral;
-  border-radius: 5px;
-  background-color: rgb(219, 0, 255);
-  cursor: pointer;
-  transition-duration: 0.4s;
-  font-size:1em;
-  margin-right: 10%;
+  margin-right: 15%;
   width: fit-content;
-}
-  
+  padding: 1% 8%;
+  font-size:1em;
+}  
+
+
 }
