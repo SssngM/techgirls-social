@@ -22,11 +22,11 @@ function Intro() {
               <div> have in person meet up in SF. </div>
               <div> Come and join us</div>
             </div>
-            <button className = "introbutton"type="button" onClick={handleClick}>
+            {/* <button className = "introbutton"type="button" onClick={handleClick}>
              <a href = "https://mailchi.mp/94c40e3e01cc/tech-girls-social">
               Newsletter
              </a>
-            </button>
+            </button> */}
           </div>
         </div>
         <img src={introimg} alt="" className="intro-img" />
