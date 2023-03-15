@@ -1,6 +1,4 @@
-.head {
-  padding: 0 2% 2% 1%;
-}
+
 
 .logo {
   display: flex;
@@ -17,8 +15,6 @@
   color: rgb(219, 0, 255);
   margin: 0;
   text-align: right;
-  padding-top: 2%;
-
   font-size: 1rem;
 }
 

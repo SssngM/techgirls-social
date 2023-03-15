@@ -7,6 +7,7 @@ import thirdimg from "../../img/img3.jpg";
 function Body() {
   return (
     <div>
+          <section id="about"></section>
       <div>
         <div className="b-title"> Be who you are!</div>
         <div className="b-dec">
@@ -51,6 +52,7 @@ function Body() {
             <p>Diversity & Equity</p>
             </div> */}
     </div>
+
   );
 }
 

@@ -64,7 +64,8 @@ a:hover {
   background-color: rgb(219, 0, 255);
   cursor: pointer;
   transition-duration: 0.4s;
-  font-size:1.2em;
+  font-size:1.5em;
+  color:white;
   margin: 2%;
   width: fit-content;
   padding: 1% 8%;

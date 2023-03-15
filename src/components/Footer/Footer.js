@@ -13,6 +13,7 @@ function Footer() {
   
   return (
     <div className="footer">
+         <section id="contact"></section>
       <p> Keep in touch</p>
       {/* <div className="f-dec">Get in Touch</div> */}
       <div> Do you want to valunteer or donate? feel free to contact us!</div>
